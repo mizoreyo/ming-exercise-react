@@ -1,0 +1,13 @@
+.wrong-list {
+  list-style: none;
+}
+
+.wrong-child {
+  background-color: #fff;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+.wrong-info {
+  color: rgb(255, 154, 154);
+}

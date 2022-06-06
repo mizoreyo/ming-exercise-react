@@ -1,0 +1,10 @@
+.paper-container {
+  padding: 0.5rem;
+  background-color: #fff;
+  width: 80rem;
+  margin: auto;
+}
+
+.complete-q-info {
+  color: rgb(98, 169, 255);
+}

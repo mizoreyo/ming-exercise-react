@@ -1,0 +1,9 @@
+.create-paper-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+}
+
+.paper-form-container {
+  width: 30rem;
+}

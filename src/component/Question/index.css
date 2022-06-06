@@ -1,0 +1,16 @@
+.question-container {
+  padding: 1rem;
+}
+
+.question-multi {
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+.ant-checkbox-group-item {
+  margin-bottom: 1rem !important;
+}
+
+.hidden {
+  display: none !important;
+}

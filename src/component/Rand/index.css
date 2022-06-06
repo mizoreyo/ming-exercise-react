@@ -1,0 +1,12 @@
+.rand-container {
+  background-color: #fff;
+}
+
+.rand-form {
+  padding: 1rem !important;
+}
+
+.ant-checkbox-wrapper {
+  margin-left: 1rem !important;
+  margin-bottom: 0.5rem !important;
+}
